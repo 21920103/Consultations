@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Consultations</string>
+    <string name="main_title">Запис на консультацію</string>
+    <string name="lab1_btn">Лабораторна робота 1</string>
+    <string name="lab2_btn">Лабораторна робота 2</string>
+    <string name="lab3_btn">Лабораторна робота 3</string>
+    <string name="lab4_btn">Лабораторна робота 4</string>
+    <string name="lab5_btn">Лабораторна робота 5</string>
+    <string name="exit_btn">Завершити роботу</string>
 </resources>
