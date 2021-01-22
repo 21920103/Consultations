@@ -22,15 +22,15 @@
         android:textAlignment="center"
         android:textSize="24sp" />
 
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="5dp"
-        android:icon="@android:drawable/ic_dialog_info"
-        android:text="@string/lab1_btn" />
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/btn_shape_1"
+            android:text="@string/lab1_btn" />
 
-    <Button
+        <Button
         android:id="@+id/button2"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
